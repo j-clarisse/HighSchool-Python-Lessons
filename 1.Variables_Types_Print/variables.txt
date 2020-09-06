@@ -1,0 +1,24 @@
+Remember:
+Use meaningful and easy-to-remember variable names 
+(E.g maths_mark = 49 is easier to understand than x = 49)
+
+Variable names must start with a character not a number
+
+Variable names must not contain spaces
+(Use under_scores or CapitalLetters instead)
+
+Python commands cannot be used as variable names 
+(E.g for, with, is, return, etc.) """
+
+Which of these compile?
+
+1. hello = 10
+2. 1mark = 100
+3. math mark = 20
+4. math100 = 0.0
+5. 123 = "onetwothree"
+6. onetwothree = 123
+7. vArIaBlE = True
+8. for = "four"
+9. -10 = "negative 10"
+10. x_x = -900
